@@ -1,4 +1,4 @@
-# TrendVide
+# TrendVide (Reddit Clone)
 
 ## Description
 
@@ -11,7 +11,7 @@ TrendVibe is inspired by Reddit and is a platform for users to share their thoug
 - TypeScript
 - Auth
 - Tailwind CSS
-- Prisma ORM
+- PrismaORM 
 - MySQL
 
 ## Features
